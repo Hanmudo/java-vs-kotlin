@@ -19,7 +19,7 @@ Who
 
 Thom
 
-29, Maarssen, Kotlin Guru / Software Architect
+32, Maarssen, Kotlin Guru / Software Architect
 
 ----
 
@@ -37,39 +37,63 @@ Java still runs on 3 billion devices...
 
 ---
 
-Kotlin sheet 1
+Kotlin also runs ....
 
 ---
 
-Java Sheet 1
+Java 21 adjusted the concurrency with Project Loom 
+
+* Virtual Threads 
+* Continuation
+* Concurrency
 
 ---
 
-Kotlin sheet 2
+Kotlin has coroutines
+
+* Coroutines
 
 ---
 
-Java Sheet 2
+Java is market leader
+* Public sector
+* Finance
+* Industry
 
 ---
 
-Kotlin sheet 3
+Kotlin is becoming market leader
+
+* Android SDK is kotlin by default
+* Spring Framework is getting native support for Kotlin since 3.0
 
 ---
 
-Java Sheet 3
+Java is named after an island
+* James Gosling drank a cup of coffee 
+* The coffee inspired James with the origin of the coffee
+* The Indonesian island called Java
+* First name was Oak
+* Oak was a name with patent so they needed another name
 
 ---
 
-Kotlin sheet 4
+Kotlin is also named after an island
+
+* Russian
+* JetBrains
 
 ---
 
-Java Sheet 4
+Java has a lot of libraries to support your solution
+* Spring
+* Lombok
+* Many more on maven repositories such as Maven Central, Google
 
 ---
 
-Kotlin sheet 5
+Kotlin removes NullPointerExceptions
+
 
 ---
 
