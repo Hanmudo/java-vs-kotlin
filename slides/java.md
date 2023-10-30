@@ -1,3 +1,9 @@
+---
+title: Java versus Kotlin
+revealOptions:
+  transition: 'none'
+---
+
 Java versus Kotlin
 
 ![cat](img/java-vs-kotlin.png)
