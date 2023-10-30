@@ -107,7 +107,19 @@ Java 21 adjusted the concurrency with Project Loom
 
 Kotlin has coroutines
 
-* Coroutines
+Note: Let's play a game, spot the differences
+
+----
+
+[<img src="img/plain.png" />](image.png)
+
+----
+
+[<img src="img/suspend.png" />](image.png)
+
+Note:
+Technical tidbits: Coroutines use structured concurrency, support cooperative cancellation,
+and you can use loom as the dispatcher, or write your own if you love fixing race conditions.
 
 ---
 
