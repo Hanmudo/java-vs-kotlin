@@ -12,7 +12,7 @@ jobs:
       options:
         --entrypoint=''
       volumes:
-        - ${{github.workspace}}/slides:/slides
+        - ${{github.workspace}}:${{github.workspace}}
         - /tmp/artifacts:/tmp/artifacts
     steps:
       - name: Checkout
@@ -21,7 +21,7 @@ jobs:
           persist-credentials: false
 
       - name: Build
-        run: /app/bin/reveal-md.js /slides/ --static /tmp/artifacts/presentation/
+        run: /app/bin/reveal-md.js ${{github.workspace}}/slides --static /tmp/artifacts/presentation/
 
       - name: Install upload-pages-artifact dependency
         run: apk add tar
