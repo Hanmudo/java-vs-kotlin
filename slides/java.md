@@ -21,6 +21,14 @@ Thom
 
 32, Maarssen, Kotlin Guru / Software Architect
 
+[<img src="img/profileThom.jpg" width="200"/>](image.png)
+
+Note:
+Actually not from the Java world, coming to the JVM ecosystem from Ruby and TypeScript, also not a Guru, that's just what Ricky calls me. 
+
+Programming for X years. 10+ years of professional experience. Some say I quit the startup world to look after my kids,
+others say that I just wanted to work with Kotlin, we'll never know...
+
 ----
 
 Ricky
@@ -28,6 +36,48 @@ Ricky
 34, Veenendaal, Java Developer
 
 [<img src="img/profileRicky.jpg" width="200"/>](image.png)
+
+---
+
+# Enough about us..
+> Show of hands
+
+----
+
+### Who's afraid to put their hand up?
+
+----
+
+### Programmed in Java?
+
+----
+
+### Programmed in Kotlin?
+
+----
+
+### Who thinks programming is fun?
+
+----
+
+```java
+void main() {
+    System.out.println("Hello World!");
+}
+```
+
+Note: Staring into the void every day...
+This broke the highlighter
+
+----
+
+```kotlin
+fun main() {
+    println("Hello World!")
+}
+```
+
+Note: Having seen this reality, the guys from JetBrains decided to force you to have `fun`.
 
 ---
 
