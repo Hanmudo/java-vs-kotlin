@@ -132,7 +132,8 @@ Java is market leader
 
 Kotlin is becoming market leader
 
-* Android SDK is kotlin by default
+* Android SDK is Kotlin by default
+* Gradle switched to Kotlin DSL by default
 * Spring Framework is getting native support for Kotlin since 3.0
 
 ---
@@ -162,14 +163,30 @@ Java has a lot of libraries to support your solution
 
 Kotlin removes NullPointerExceptions
 
+---
+
+Compose Multiplatform
+
+<img src="img/compose-multiplatform.png" />
+
+Note: Breaking the order, go ahead Ricky, tell us about Java's answer
+
+
+----
+
+![compose-component.png](img%2Fcompose-component.png)
+
+<img src="img/compose-multiplatform.png" />
+
+Note:
+Built an actual git GUI from scratch in 2 days for OSX, Windows, and Linux.
+Actually loved building it, since I had the power of Flutter without having to learn Dart.
+
+And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻‍♂️... (Ricky: interject).
 
 ---
 
 Java Sheet 5
-
----
-
-Kotlin sheet 6
 
 ---
 
