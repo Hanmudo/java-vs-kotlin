@@ -27,7 +27,7 @@ Thom
 
 32, Maarssen, Kotlin Guru / Software Architect
 
-[<img src="img/profileThom.jpg" width="200"/>](image.png)
+<img src="img/profileThom.jpg" width="200"/>
 
 Note:
 Actually not from the Java world, coming to the JVM ecosystem from Ruby and TypeScript, also not a Guru, that's just what Ricky calls me. 
@@ -41,7 +41,7 @@ Ricky
 
 34, Veenendaal, Java Developer
 
-[<img src="img/profileRicky.jpg" width="200"/>](image.png)
+<img src="img/profileRicky.jpg" width="200"/>
 
 ---
 
@@ -111,11 +111,9 @@ Note: Let's play a game, spot the differences
 
 ----
 
-[<img src="img/plain.png" />](image.png)
+<img src="img/plain.png" />
 
-----
-
-[<img src="img/suspend.png" />](image.png)
+<img src="img/suspend.png" />
 
 Note:
 Technical tidbits: Coroutines use structured concurrency, support cooperative cancellation,
