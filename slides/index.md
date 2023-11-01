@@ -207,7 +207,38 @@ Java has a lot of libraries to support your solution
 
 ---
 
-Kotlin removes NullPointerExceptions
+# Kotlin's compiler has your back
+
+----
+
+```kotlin [1-4|7|8-9|10-11]
+data class User(
+    val name: String,
+    val address: Address?,
+)
+
+fun contrived() {
+    println(user.name)
+    // Compilation error
+    println(user.address.street)
+    // Valid
+    println(user.address?.street ?: "unknown")
+}
+```
+
+Note:
+We have a user, but we don't know if it has an address.
+Accessing the name is fine
+But accessing the street throws a compilation error
+Using the safe call operator we can access the street, using the elvis operator we can provide a fallback.
+
+
+----
+
+Getters/Setters
+
+Note:
+People won't get angry at you for making your public fields public.
 
 ---
 
