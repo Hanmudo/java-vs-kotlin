@@ -138,6 +138,35 @@ Note:
 Technical tidbits: Coroutines use structured concurrency, support cooperative cancellation,
 and you can use loom as the dispatcher, or write your own if you love fixing race conditions.
 
+----
+
+One more thing..
+
+----
+
+Works on Java 6
+
+```dockerfile
+FROM vulhub/openjdk:6-jre
+
+ADD build/libs/java-6-coroutines-1-all.jar /app.jar
+
+CMD ["java", "-jar", "/app.jar"]
+```
+
+
+```kotlin
+suspend fun carInTheStoneAge() {
+    println("Hello World!")
+
+    launch { // launch a new coroutine and continue
+        delay(1000L) // non-blocking delay for 1 second (default time unit is ms)
+        println("World!") // print after delay
+    }
+    println("Hello") // main coroutine continues while a previous one is delayed
+}
+```
+
 ---
 
 Java is market leader
