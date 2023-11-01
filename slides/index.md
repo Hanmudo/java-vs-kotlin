@@ -91,9 +91,28 @@ Java still runs on 3 billion devices...
 
 [<img src="img/3billion.jpeg" width="300"/>](image.png)
 
----
+----
 
 Kotlin also runs ....
+
+----
+
+On 3 billion devices
+
+<img src="img/3billion_kotlin.png" />
+
+<cite style="font-size: .6em">blog.google/products/android/io22-multideviceworld, May 2022</cite>
+
+----
+
+On 3 billion devices
+
+<img src="img/3billion_kotlin.png" />
+
+<cite style="font-size: .6em">(excluding iOS, desktops, and servers)</cite>
+
+Note:
+Jetbrains toolbox is also written in Kotlin.
 
 ---
 
