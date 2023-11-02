@@ -116,15 +116,32 @@ Jetbrains toolbox is also written in Kotlin.
 
 ---
 
-Java 21 adjusted the concurrency with Project Loom 
+# Java 21 - Project Loom 
 
 * Virtual Threads 
 * Continuation
-* Concurrency
+* Concurrency paradise
+
+Note: Old concurrency the thread was a wrapper around an OS thread. The loom variant has taken control towards inside the JVM.
+
+----
+
+# Traditional Threads
+
+- OutOfMemoryError within seconds....
+- OS Handles the threads directly
+
+----
+
+# Virtual Threads
+
+- Stored in the heap instead of the stack!
+- Smaller memory footprint
+- Multiple virtual Threads on a carrier thread (non-blocking IO)
 
 ---
 
-Kotlin has coroutines
+# Kotlin coroutines
 
 Note: Let's play a game, spot the differences
 
@@ -184,8 +201,13 @@ Kotlin is becoming market leader
 
 ---
 
-Java is named after an island
-* James Gosling drank a cup of coffee 
+<img src="img/oaktechnologylogo.svg" />
+
+<img src="img/oak.jpg" />
+
+<img src="img/javacoffee.jpeg" />
+
+Note: Java is named after the origin of a cup of coffee
 * The coffee inspired James with the origin of the coffee
 * The Indonesian island called Java
 * First name was Oak
