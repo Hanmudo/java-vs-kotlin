@@ -132,6 +132,20 @@ Note: Old concurrency the thread was a wrapper around an OS thread. The loom var
 - OS Handles the threads directly
 
 ----
+```java
+class MyRunnable implements Runnable{  
+    public void run(){  
+        System.out.println("thread is running...");  
+    }  
+  
+    public static void main(String args[]){
+        MyRunnable myRunnable = new MyRunnable();  
+        Thread myThread =new Thread(myRunnable);   // Using the constructor Thread(Runnable r)  
+        myThread.start();  
+     }  
+}  
+```
+----
 
 # Virtual Threads
 
@@ -139,8 +153,15 @@ Note: Old concurrency the thread was a wrapper around an OS thread. The loom var
 - Smaller memory footprint
 - Multiple virtual Threads on a carrier thread (non-blocking IO)
 
+----
+``` java
+private static Thread virtualThread(String name, Runnable runnable) {
+    return Thread.ofVirtual()
+    .name(name)
+    .start(runnable);
+}
+```
 ---
-
 # Kotlin coroutines
 
 Note: Let's play a game, spot the differences
@@ -222,7 +243,7 @@ Kotlin is also named after an island
 
 ---
 
-Java has a lot of libraries to support your solution
+Java has a lot of libraries/frameworks to support your solution
 * Spring
 * Lombok
 * Many more on maven repositories such as Maven Central, Google
@@ -285,19 +306,25 @@ And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻�
 
 ---
 
-Java Sheet 5
+# JavaFX
+
+![JavaFXIsland.webp](img%2FJavaFXIsland.webp)
 
 ---
 
-Java Sheet 6
+# TIOBE INDEX
+
+![tiobe_java.png](img%2Ftiobe_java.png)
+<cite style="font-size: .6em">Reference date: November 7th 2023</cite>
 
 ---
 
-Kotlin sheet 7
-
+# TIOBE INDEX
+![tiobe_kotlin.png](img%2Ftiobe_kotlin.png)
+<cite style="font-size: .6em">Reference date: November 7th 2023</cite>
 ---
 
-Java Sheet 7
+# Show of hands
 
 ---
 
