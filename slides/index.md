@@ -161,6 +161,8 @@ private static Thread virtualThread(String name, Runnable runnable) {
     .start(runnable);
 }
 ```
+----
+![java-virtual-threads.png](img%2Fjava-virtual-threads.png)
 ---
 # Kotlin coroutines
 
