@@ -323,6 +323,11 @@ And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻�
 ![tiobe_kotlin.png](img%2Ftiobe_kotlin.png)
 <cite style="font-size: .6em">Reference date: November 7th 2023</cite>
 ---
+## But wait...
+
+![calculation_tiobe.png](img%2Fcalculation_tiobe.png)
+
+---
 
 # Show of hands
 
