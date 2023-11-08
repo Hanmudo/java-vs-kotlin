@@ -224,10 +224,9 @@ Kotlin is becoming market leader
 
 ---
 
-<img src="img/oaktechnologylogo.svg" />
 
+![oakT.webp](img%2FoakT.webp)
 <img src="img/oak.jpg" />
-
 <img src="img/javacoffee.jpeg" />
 
 Note: Java is named after the origin of a cup of coffee
@@ -310,7 +309,8 @@ And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻�
 
 # JavaFX
 
-![JavaFXIsland.webp](img%2FJavaFXIsland.webp)
+![JavaFX_text_logo.png](img%2FJavaFX_text_logo.png)
+
 
 ---
 
