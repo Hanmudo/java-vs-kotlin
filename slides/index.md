@@ -222,8 +222,15 @@ Note: Java is named after the origin of a cup of coffee
 
 Kotlin is also named after an island
 
-* Russian
-* JetBrains
+---
+
+## Church of Kotlin
+
+<img src="img/church_of_kotlin.jpeg">
+
+Note:
+- A beautiful church
+- But no coffee :(
 
 ---
 
