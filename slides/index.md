@@ -359,7 +359,7 @@ And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻�
 
 # Show of hands
 
-- 
+Note:
 - Who's going to try Kotlin?
 
 ---
