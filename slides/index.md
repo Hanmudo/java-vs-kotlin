@@ -25,9 +25,18 @@ Who
 
 Thom
 
-32, Maarssen, Kotlin Guru / Software Architect
+Kotlin Enjoyer / Software Architect
 
 <img src="img/profileThom.jpg" width="200"/>
+
+
+<div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="img/github.svg" width="32"/>
+        <img src="img/x.svg" width="32"/>
+        : @rescribet
+    </div>
+</div>
 
 Note:
 Actually not from the Java world, coming to the JVM ecosystem from Ruby and TypeScript, also not a Guru, that's just what Ricky calls me. 
@@ -345,6 +354,9 @@ And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻�
 ---
 
 # Show of hands
+
+- 
+- Who's going to try Kotlin?
 
 ---
 
