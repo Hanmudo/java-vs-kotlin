@@ -6,13 +6,13 @@ revealOptions:
 
 Java versus Kotlin
 
-![cat](img/java-vs-kotlin.png)
+<img src="img/java-vs-kotlin.png">
 
 By: Ricky van Rijn & Thom van Kalkeren
 
 ---
 
-![staredown_upperbody_text.jpeg](img%2Fstaredown_upperbody_text.jpeg)
+<img src="img/staredown_upperbody_text.jpeg" />
 
 ---
 
@@ -142,7 +142,7 @@ private static Thread virtualThread(String name, Runnable runnable) {
 }
 ```
 ---
-![java-virtual-threads.png](img%2Fjava-virtual-threads.png)
+![java-virtual-threads.png](img/java-virtual-threads.png)
 ---
 
 # Kotlin Coroutines
@@ -208,7 +208,7 @@ Kotlin is becoming market leader
 ---
 
 
-![oakT.webp](img%2FoakT.webp)
+![oakT.webp](img/oakT.webp)
 <img src="img/oak.jpg" />
 <img src="img/javacoffee.jpeg" />
 
@@ -318,7 +318,7 @@ Note: compose makes this even regarding UIs
 
 ---
 
-![compose-component.png](img%2Fcompose-component.png)
+<img src="img/compose-component.png">
 
 <img src="img/compose-multiplatform.png" />
 
@@ -336,24 +336,24 @@ And no, I'm not getting paid by JetBrains, but if they want to hire me 🤷🏻�
 
 # JavaFX
 
-![JavaFX_text_logo.png](img%2FJavaFX_text_logo.png)
+![JavaFX_text_logo.png](img/JavaFX_text_logo.png)
 
 ---
 
 # TIOBE INDEX
 
-![tiobe_java.png](img%2Ftiobe_java.png)
+![tiobe_java.png](img/tiobe_java.png)
 <cite style="font-size: .6em">Reference date: November 7th 2023</cite>
 
 ---
 
 # TIOBE INDEX
-![tiobe_kotlin.png](img%2Ftiobe_kotlin.png)
+![tiobe_kotlin.png](img/tiobe_kotlin.png)
 <cite style="font-size: .6em">Reference date: November 7th 2023</cite>
 ---
 ## But wait...
 
-![calculation_tiobe.png](img%2Fcalculation_tiobe.png)
+![calculation_tiobe.png](img/calculation_tiobe.png)
 
 ---
 
