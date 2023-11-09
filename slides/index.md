@@ -12,10 +12,7 @@ By: Ricky van Rijn & Thom van Kalkeren
 
 ---
 
-Why?
-
-Thom is convinced Kotlin is the successor of Java.
-Ricky is convinced Java will prevail.
+![staredown_upperbody_text.jpeg](img%2Fstaredown_upperbody_text.jpeg)
 
 ---
 
