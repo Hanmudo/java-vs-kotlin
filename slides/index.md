@@ -6,13 +6,13 @@ revealOptions:
 
 Java versus Kotlin
 
-<img src="./assets/img/java-vs-kotlin.png">
+<img src="./_assets/img/java-vs-kotlin.png">
 
 By: Ricky van Rijn & Thom van Kalkeren
 
 ---
 
-<img src="img/staredown_upperbody_text.jpeg" />
+<img src="./_assets/img/staredown_upperbody_text.jpeg" />
 
 ---
 
@@ -24,13 +24,13 @@ Thom
 
 Kotlin Enjoyer / Software Architect
 
-<img src="img/profileThom.jpg" width="200"/>
+<img src="./_assets/img/profileThom.jpg" width="200"/>
 
 
 <div>
     <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="img/github.svg" width="32"/>
-        <img src="img/x.svg" width="32"/>
+        <img src="./_assets/img/github.svg" width="32"/>
+        <img src="./_assets/img/x.svg" width="32"/>
         : @rescribet
     </div>
 </div>
@@ -47,7 +47,7 @@ Ricky
 
 34, Veenendaal, Java Developer
 
-<img src="img/profileRicky.jpg" width="200"/>
+<img src="./_assets/img/profileRicky.jpg" width="200"/>
 
 ---
 
