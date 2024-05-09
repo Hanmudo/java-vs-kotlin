@@ -6,7 +6,7 @@ revealOptions:
 
 Java versus Kotlin
 
-<img src="img/java-vs-kotlin.png">
+<img src="./assets/img/java-vs-kotlin.png">
 
 By: Ricky van Rijn & Thom van Kalkeren
 
